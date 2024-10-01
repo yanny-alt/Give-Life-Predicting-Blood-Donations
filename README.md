@@ -87,4 +87,5 @@ To replicate the analysis in this project:
    Open a terminal and navigate to the project directory. Then, run the Jupyter Notebook to see the detailed analysis steps:
       ```bash
       jupyter notebook Blood_Donation_Prediction.ipynb  
-   
+
+Thank you for exploring this project! If you have any suggestions or questions, feel free to reach out.   
