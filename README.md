@@ -76,7 +76,7 @@ To replicate the analysis in this project:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/blood-donation-prediction.git
+   git clone https://github.com/yanny-alt/Give-Life-Predicting-Blood-Donations
 
 2.  **Install Required Packages**:
    Make sure you have Python 3 and the necessary libraries installed. You can install the required packages using the following command:
