@@ -77,3 +77,14 @@ To replicate the analysis in this project:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/blood-donation-prediction.git
+
+2.  **Install Required Packages**:
+   Make sure you have Python 3 and the necessary libraries installed. You can install the required packages using the following command:
+    ```bash
+    pip install -r requirements.txt
+
+4. **Run the Jupyter Notebook**:
+   Open a terminal and navigate to the project directory. Then, run the Jupyter Notebook to see the detailed analysis steps:
+      ```bash
+      jupyter notebook Blood_Donation_Prediction.ipynb  
+   
