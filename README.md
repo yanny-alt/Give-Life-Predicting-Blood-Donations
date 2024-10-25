@@ -1,6 +1,6 @@
 # Give Life: Predicting Blood Donations
 
-![Blood Donation Image](link_to_image)
+![Blood Donation Image](https://github.com/yanny-alt/Give-Life-Predicting-Blood-Donations/blob/main/images/blood_donation.png)
 
 "Blood is the most precious gift that anyone can give to another person — the gift of life." ~ World Health Organization
 
@@ -46,7 +46,7 @@ The dataset used in this project was collected from the Blood Transfusion Servic
 - **Time (T)**: Months since the first donation.
 - **Target (C)**: Binary variable indicating whether the donor donated blood in March 2007.
 
-To explore the dataset further, [click here to access the data](link_to_dataset_in_repo).
+To explore the dataset further, [click here to access the data](https://github.com/yanny-alt/Give-Life-Predicting-Blood-Donations/blob/main/datasets/transfusion.data).
 
 ## Project Methodology
 
