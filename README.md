@@ -61,6 +61,8 @@ To explore the dataset further, [click here to access the data](https://github.c
    - Evaluating the model's performance using metrics like AUC score.
 5. **Model Interpretation**:
    - Analyzing which features contribute the most to the prediction.
+  
+   ![](https://github.com/yanny-alt/Give-Life-Predicting-Blood-Donations/blob/main/images/TPOT.jpg)
 
 ## Results
 
